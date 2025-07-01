@@ -15,7 +15,8 @@
                 "ms-python.python",
                 "ms-python.vscode-pylance",
                 "ms-python.black-formatter",
-                "tamasfe.even-better-toml"
+                "tamasfe.even-better-toml",
+                "shuworks.vscode-table-formatter"
             ],
             "settings": {
                 "files.trimTrailingWhitespace": true,
