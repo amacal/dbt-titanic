@@ -9,7 +9,7 @@ Add the package to your `packages.yml`:
 ```yaml
 packages:
   - git: "https://github.com/amacal/dbt-titanic.git"
-    revision: main
+    revision: v0.1.0
 ```
 
 Run `dbt deps` to install the macros.
