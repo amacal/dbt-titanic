@@ -8,7 +8,7 @@ Add the package to your `packages.yml`:
 
 ```yaml
 packages:
-  - git: "https://github.com/your-org/dbt-titanic.git"
+  - git: "https://github.com/amacal/dbt-titanic.git"
     revision: main
 ```
 
